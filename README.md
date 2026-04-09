@@ -8,13 +8,13 @@ The focus is on translating a **static visual concept into a functional, respons
 
 ## 🚀 Live Demo
 
-👉
+👉 https://wallcalendar-gamma.vercel.app
 
 ---
 
 ## 🎥 Video Demonstration
 
-👉 *
+👉 * https://youtu.be/N7ylwSNkH7Q
 
 ---
 
@@ -163,22 +163,13 @@ Used GSAP and 3D transforms to simulate real-world page flipping and depth.
 ## ⚙️ How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/calendar-project
+git clone https://github.com/rajnish032/takeuforward
 npm install
 npm run dev
 ```
 
 ---
 
-## 📸 Screenshots
-
-👉 ### 🖥️ Main Calendar UI
-![Calendar UI](./screenshot/calender.png),
-![select range](./screenshot/calender2.png)
-
-
-
----
 
 ## 📌 Scope & Implementation Notes
 
@@ -191,8 +182,8 @@ npm run dev
 
 ## 📬 Contact
 
-* GitHub:
-* LinkedIn: 
+* GitHub:https://github.com/rajnish032/takeuforward
+* LinkedIn: www.linkedin.com/in/rajnishkuma
 
 ---
 
